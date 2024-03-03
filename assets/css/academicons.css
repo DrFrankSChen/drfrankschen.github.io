@@ -569,3 +569,15 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+
+.bibtex {
+  background-color: #f4f4f4; /* Light grey background */
+  border: 1px solid #ddd; /* Light grey border */
+  overflow-x: auto; /* Allows horizontal scrolling if needed */
+  white-space: pre-wrap; /* Enables line break as necessary to fit width */
+  word-wrap: break-word; /* Breaks long words to prevent overflow */
+  padding: 10px; /* Adds some padding inside the box */
+  color: #333; /* Darker text color for readability */
+  font-family: monospace; /* Monospaced font for code readability */
+}
