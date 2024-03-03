@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a>  <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
@@ -63,14 +63,11 @@
     {% endif %} -->
 
     {% if post.citation %}
-      <p><strong>Citation: </strong>{{ post.citation }} </p>
+      <p><strong>Cite this paper: </strong>{{ post.citation }} </p>      
     {% endif %}
     {% if post.paperurl %}
-      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
+      <p class="wordwrap">PDF can be downloaded <a href=" {{ post.paperurl }} ">here</a>.</p>
     {% endif %}
-    <!-- {% if post.pdfversion %}
-      <p class="wordwrap">Download <a href=" {{ post.pdfversion }} ">here</a></p>
-    {% endif %} -->
 
   </article>
 </div>
