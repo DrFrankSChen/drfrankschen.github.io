@@ -32,6 +32,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.paperurl %}<div><a href="{{ post.paperurl }}" class="btn">{{ "PDF" }}</a></div>{% endif %}
     </h2>
     
     {% if post.read_time %}
@@ -62,12 +63,12 @@
       <p class="wordwrap">Download <a href=" {{ post.pdfversion }} ">here</a></p>
     {% endif %} -->
 
-    {% if post.citation %}
+    <!-- {% if post.citation %}
       <p><strong>Cite this paper: </strong>{{ post.citation }} </p>      
-    {% endif %}
-    {% if post.paperurl %}
+    {% endif %} -->
+    <!-- {% if post.paperurl %}
       <p class="wordwrap">PDF can be downloaded <a href=" {{ post.paperurl }} ">here</a>.</p>
-    {% endif %}
+    {% endif %} -->
 
   </article>
 </div>

@@ -1,13 +1,80 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
+
+
+
+Hello! I'm Frank Chen (Sicong Chen), a Ph.D. candidate in Computer Science at Syracuse University under the guidance of my advisor, Dr. Vir V. Phoha. 
+
+My research primarily focuses on Machine Learning and Deep Learning, Behavioral Biomterics, and Security. I'm constantly looking for innovative ways to leverage ubiqutious wearable devices and behavioral biomterics for enhancing security management and personal health monitoring.
+
+Beyond my academic endeavors, I find balance and inspiration from gym exercises, hiking, and the companionship of Leo, my supportive and adorable cat.
+
+<!-- ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing")
+![Leo playing](/images/Leo_Smile.jpg "Leo Playing") -->
+
+| | |
+|-|-|
+| ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing") | ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") |
+
+
+
+
+
+
+
+
+
+<!-- ## Welcome to My Personal Website
+
+Hello and thank you for visiting! My name is Frank Chen, and I'm currently in the final year of my Ph.D. studies in Computer Science at Syracuse University, where I've had the privilege of diving deep into Machine Learning and Deep Learning, Behavioral Biomterics, and Security. Beyond my role as a student, I serve as a teaching assistant, guiding undergraduates and graduates through the complex yet fascinating world of computer science.
+
+### My Journey
+
+Originally from China, I embarked on this academic journey with a passion for technology and its potential to solve real-world problems. Throughout my studies, I've been involved in several impactful projects, including [Brief Description of a Notable Project], which aimed to [Objective of the Project]. This project, among others, has not only honed my technical skills but also fostered a deep appreciation for collaborative innovation.
+
+#### Research Interests
+
+My research interests are centered around [Your Main Research Interest], with a particular focus on [More Specific Aspect]. I am especially fascinated by the challenges of [A Specific Challenge in Your Field], and my work seeks to [What Your Work Seeks to Achieve or Discover]. Through my research, I aspire to contribute to [Broader Goal or Impact of Your Research].
+
+#### Beyond Academia
+
+When I'm not buried in research or coding, I enjoy [A Hobby or Interest of Yours], which allows me to [What the Hobby Gives You, e.g., "stay creative and unwind"]. I believe in the importance of a well-rounded life, where interests outside of one's professional field can provide balance and inspiration.
+
+#### Let's Connect
+
+I'm always on the lookout for new collaborations, interesting discussions, or opportunities to apply my skills and knowledge. Feel free to reach out through [Your Preferred Contact Method] or follow me on [Professional Social Media Platform]. Let's explore what we can achieve together.
+
+Thank you for stopping by, and I look forward to connecting with you!
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +113,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
