@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my space!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,19 +12,23 @@ redirect_from:
 
 
 
-Hello! I'm Frank Chen (Sicong Chen), a Ph.D. candidate in Computer Science at Syracuse University under the guidance of my advisor, Dr. Vir V. Phoha. 
+Hello! I'm Frank Chen (Sicong Chen), a Ph.D. candidate in Computer Science at Syracuse University under the guidance of my advisor, Dr. Vir V. Phoha.
 
 My research primarily focuses on Machine Learning and Deep Learning, Behavioral Biomterics, and Security. I'm constantly looking for innovative ways to leverage ubiqutious wearable devices and behavioral biomterics for enhancing security management and personal health monitoring.
 
 Beyond my academic endeavors, I find balance and inspiration from gym exercises, hiking, and the companionship of Leo, my supportive and adorable cat.
 
-<!-- ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing")
+<!-- ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing"){: .align-left width="300px}
 ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") -->
 
-| | |
+<!-- | | |
 |-|-|
-| ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing") | ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") |
+| ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing") | ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") | -->
 
+<p align="center">
+  <img src="https://mrfrankchen.github.io/images/Leo_Relax.jpg" alt="Leo Relaxing" width="48%" style="margin-right: 10px;"/>
+  <img src="https://mrfrankchen.github.io/images/Leo_Smile.jpg" alt="Leo Playing" width="48%"/>
+</p>
 
 
 
