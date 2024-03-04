@@ -10,3 +10,10 @@ This file records which file that I need to modify to create my own personal web
 
 ## Homepage main content
 **"_pages/about.md"**:
+
+
+## Run it locally
+<pre class="bibtex"><code>
+bundle exec jekyll serve -l -H localhost
+localhost:4000
+</code><pre>
