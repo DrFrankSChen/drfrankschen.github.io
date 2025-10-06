@@ -12,7 +12,7 @@ title                    : "Frank (Sicong) Chen"
 title_separator          : "-"
 name                     : &name "Frank (Sicong) Chen"
 description              : &description "personal description"
-url                      : http://personal.frank-s-chen.link/ # the base hostname & protocol for your site
+url                      : https://personal.frank-s-chen.link # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DrFrankSChen/drfrankschen.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Frank (Sicong) Chen"
   pronouns         : "He/Him"  
   # bio              : "Frank (Sicong) Chen received the M.S. degree in computer science from Syracuse University in 2020, where he is currently pursuing the Ph.D. degree with Computer and Information Science and Engineering Program. His research interests encompass deep learning, security, biometrics, and human-computer interactions."
-  location         : "Syracuse, NY"
-  employer         : "Syracuse University"
+  location         : "Hanover, NH"
+  employer         : "Dartmouth College"
   uri              : # URL
-  email            : "schen154@syr.edu" 
+  email            : "frank.chen@dartmouth.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mrfrankchen"
+  github           : "drfrankschen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
