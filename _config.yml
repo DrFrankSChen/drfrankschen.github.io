@@ -12,9 +12,9 @@ title                    : "Frank (Sicong) Chen"
 title_separator          : "-"
 name                     : &name "Frank (Sicong) Chen"
 description              : &description "personal description"
-url                      : https://mrfrankchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://personal.frank-s-chen.link/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mrfrankchen/mrfrankchen.github.io"
+repository               : "DrFrankSChen/drfrankschen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

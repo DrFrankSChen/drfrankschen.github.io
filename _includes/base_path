@@ -1,5 +1,12 @@
-{% if site.url %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
-  {% assign base_path = site.github.url %}
-{% endif %}
+{%- comment -%}
+Prefer a production URL for base_path. If site.url is set to a local dev server (e.g. localhost),
+don't use it when generating files that will be published — fall back to the GitHub Pages URL instead.
+This prevents generated HTML from containing links to http://localhost:4000.
+{%- endcomment -%}
+{%- if site.url and site.url != '' and site.url contains 'localhost' == false and site.url contains '127.0.0.1' == false -%}
+  {%- assign base_path = site.url | append: site.baseurl -%}
+{%- elsif site.github and site.github.url and site.github.url != '' -%}
+  {%- assign base_path = site.github.url | append: site.baseurl -%}
+{%- else -%}
+  {%- assign base_path = site.baseurl | default: '/' -%}
+{%- endif -%}
