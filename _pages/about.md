@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Hello! I’m Frank Chen (Sicong Chen), and I earned my Ph.D. in Computer and Information Science and Engineering from Syracuse University under the supervision of Dr. Vir V. Phoha. My doctoral research focused on continuous authentication through behavioral biometrics and continuous mental health monitoring through physiological and behavioral sensing, aiming to enhance both digital security and personal well-being.
 
+I am now a postdoctoral researcher in the HumanX Cluster at Dartmouth College, working with Prof. Tam Vu. My current research focuses on developing closed-loop intelligent systems that connect wearable and mobile sensing with real-time detection and adaptive interventions. By integrating multimodal learning with physiological and behavioral data, my work aims to enable proactive, personalized therapeutic technologies that improve both mental and physical well-being.
 
+Outside of research, I enjoy strength training, swimming, hiking, and spending time with my cat, Leo, who provides endless support and entertainment.
 
-
-
-Hello! I'm Frank Chen (Sicong Chen), a Ph.D. candidate in Computer Science at Syracuse University under the guidance of my advisor, Dr. Vir V. Phoha.
-
-My research primarily focuses on Machine Learning and Deep Learning, Behavioral Biomterics, and Security. I'm constantly looking for innovative ways to leverage ubiqutious wearable devices and behavioral biomterics for enhancing security management and personal health monitoring.
-
-Beyond my academic endeavors, I find balance and inspiration from gym exercises, hiking, and the companionship of Leo, my supportive and adorable cat.
 
 <!-- ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing"){: .align-left width="300px}
 ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") -->
