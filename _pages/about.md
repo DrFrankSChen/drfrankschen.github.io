@@ -26,8 +26,8 @@ Beyond my academic endeavors, I find balance and inspiration from gym exercises,
 | ![Leo relaxing](/images/Leo_Relax.jpg "Leo Relaxing") | ![Leo playing](/images/Leo_Smile.jpg "Leo Playing") | -->
 
 <p align="center">
-  <img src="https://mrfrankchen.github.io/images/Leo_Relax.jpg" alt="Leo Relaxing" width="48%" style="margin-right: 10px;"/>
-  <img src="https://mrfrankchen.github.io/images/Leo_Smile.jpg" alt="Leo Playing" width="48%"/>
+  <img src="/images/Leo_Relax.jpg" alt="Leo Relaxing" width="48%" style="margin-right: 10px;"/>
+  <img src="/images/Leo_Smile.jpg" alt="Leo Playing" width="48%"/>
 </p>
 
 
